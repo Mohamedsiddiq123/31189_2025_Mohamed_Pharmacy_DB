@@ -1,0 +1,24 @@
+Smart Pharmacy Management System
+1. Problem Definition
+Many pharmacies still use manual methods or outdated systems to manage medicines, sales, suppliers, and inventory. This leads to several problems such as medication shortages, expired medicines remaining in stock, inaccurate inventory records, slow customer service, and difficulty generating reports. Therefore, there is a need for a smart pharmacy management system that automates daily operations using Oracle Database.
+2. Context of Use
+The system will be used in community pharmacies, private pharmacies, and small medical stores to manage medicines, suppliers, customers, sales, purchases, and inventory.
+3. Target Users
+Pharmacy Administrator
+Pharmacist
+Storekeeper (Inventory Manager)
+4. Project Objectives
+Manage medicine information.
+Track medicine stock levels.
+Record purchases from suppliers.
+Record customer sales.
+Monitor medicine expiry dates.
+Generate reports.
+Improve data security using Oracle Database.
+5. Expected Benefits
+Reduce human errors.
+Faster pharmacy operations.
+Better inventory management.
+Easy report generation.
+Improved data security.
+Better customer service.
